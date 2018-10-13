@@ -3,7 +3,7 @@ import numpy as np
 
 x = pd.Series([122,34,34,12])
 y = pd.Series([123,12,12,12])
+z =pd.Series([2,2,2,2])
 
-
-print(x+y)
-print('hello, learning git')
+print(x+y+z)
+Print('this one has Z')
