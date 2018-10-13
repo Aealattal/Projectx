@@ -6,3 +6,4 @@ y = pd.Series([123,12,12,12])
 
 
 print(x+y)
+print('hello, learning git')
