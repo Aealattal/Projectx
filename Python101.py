@@ -6,4 +6,5 @@ y = pd.Series([123,12,12,12])
 z =pd.Series([2,2,2,2])
 
 print(x+y+z)
-Print('this one has Z')
+print('this one has Z')
+print this one has X ... and it won't work
